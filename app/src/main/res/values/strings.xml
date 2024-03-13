@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="add_task">Add Task</string>
+    <string name="enter_new_task">Enter New Task</string>
+    <string name="save">Save</string>
+
+    //Headings
+    <string name="heading_one">Manage your tasks</string>
+    <string name="heading_two">Create daily routine</string>
+    <string name="heading_three">Organize your tasks</string>
+
+    //Description
+    <string name="desc_one">You can easily manage all of your daily tasks in DoMe for free</string>
+    <string name="desc_two">In Uptodo  you can create your personalized routine to stay productive</string>
+    <string name="desc_three">You can organize your daily tasks by adding your tasks into separate categories</string>
+    <string name="how_to_use">How to use</string>
+    <string name="faq_s">FAQ\'s</string>
+
+</resources>
